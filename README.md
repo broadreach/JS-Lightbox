@@ -1,7 +1,7 @@
 # JS-Lightbox
 Basic lightbox functionality without jQuery.
 
-This is a set of scripts and styles that implements a pretty basic lightbox effect for displaying larger versions of thumbnail images. Include a thumbnail by giving it a "lightbox-photo" class. Captions can be added by using a "data-caption" attribute. Because of the way I initially used this, the full-size image gets appended to a `div` with "column-wrapper" id, but this can be easily changed depending on how your page is set up.
+This implements a pretty basic lightbox effect for displaying larger versions of thumbnail images. Include a thumbnail by giving it a "lightbox-photo" class. Captions can be added by using a "data-caption" attribute. Because of the way I initially used this, the full-size image gets appended to a `div` with "column-wrapper" id, but this can be easily changed depending on how your page is set up.
 
 Your HTML should look something like this:
 
